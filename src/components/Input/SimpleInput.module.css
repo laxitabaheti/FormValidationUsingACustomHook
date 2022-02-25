@@ -1,0 +1,23 @@
+.Card {
+  display: block;
+  padding: 1.2rem;
+  margin: 1rem;
+  border-radius: 15px;
+}
+.input label {
+  display: block;
+  margin: 0.5rem 0;
+}
+.input input {
+  display: block;
+  margin: 0.5rem 0;
+  outline: none;
+  width: 95%;
+  caret-color:blue;
+}
+
+.button_division {
+  margin: 1rem 0 0 0;
+  display: flex;
+  justify-content: flex-end;
+}
